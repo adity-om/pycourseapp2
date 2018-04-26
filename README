@@ -1,0 +1,3 @@
+This a git repository for the python 10 apps course. This repository is for the second app.
+
+In this App, the computer randomly selects a number in a range. The game is to keep on guessing the number until the randomly selected number is correctly guessed by the user.
